@@ -1,4 +1,4 @@
-# unity-prototype-4
+# Sumo Island
 
 A microgame made as part of Unity's Create With Code series of tutorials. Some additions, like the restart feature, has been added outside of the scope of the exercise.
 
