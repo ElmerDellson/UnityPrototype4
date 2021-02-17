@@ -1,6 +1,6 @@
 # Sumo Island
 
-A microgame made as part of Unity's Create With Code series of tutorials. Some additions, like the restart feature, has been added outside of the scope of the exercise.
+A microgame made as part of Unity's Create With Code series of tutorials. Some additions, like the restart feature, has been made outside of the scope of the exercise.
 
 # How to play
 Move the camera with AD.
